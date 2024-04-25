@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "1080368311573",
+    "project_id": "experiment-2f928",
+    "storage_bucket": "experiment-2f928.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080368311573:android:61f00ef532101e6544cd1c",
+        "android_client_info": {
+          "package_name": "com.example.firebase_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFI-ovIJxqB0J-8dpXYCWBBniHu1ocizI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080368311573:android:9e8c1ce469e905e944cd1c",
+        "android_client_info": {
+          "package_name": "com.learn.facerecog"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFI-ovIJxqB0J-8dpXYCWBBniHu1ocizI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080368311573:android:fcc2a096d1db898744cd1c",
+        "android_client_info": {
+          "package_name": "com.ptcbn.jmstar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFI-ovIJxqB0J-8dpXYCWBBniHu1ocizI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
