@@ -1,3 +1,4 @@
+//CameraView Widget created by lada.
 import 'package:camera/camera.dart';
 import 'package:flutter/material.dart';
 import 'package:google_mlkit_commons/google_mlkit_commons.dart';
