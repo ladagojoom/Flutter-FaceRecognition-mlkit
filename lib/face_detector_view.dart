@@ -1,3 +1,4 @@
+//face_detector_view created by BlueDragonDev1105
 import 'package:camera/camera.dart';
 import 'package:flutter/material.dart';
 import 'package:google_mlkit_face_detection/google_mlkit_face_detection.dart';
