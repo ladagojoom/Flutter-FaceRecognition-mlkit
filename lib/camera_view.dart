@@ -1,3 +1,4 @@
+//CameraView Widget created by lada.
 import 'dart:io';
 
 import 'package:camera/camera.dart';
